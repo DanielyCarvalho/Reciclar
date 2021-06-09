@@ -1,0 +1,15 @@
+<resources>
+    <string name="UserSharedPrefs">UserSharedPrefs</string>
+    <string name="app_name">Reciclar</string>
+    <string name="BT_Comecar">Começar</string>
+    <string name="TV_HeaderComecar">Olá, você está no Reciclar</string>
+    <string name="TV_BodyComecar">Encontre coletores de residuos reciclaveis perto de você e ajude a movimentar a economia sustentavél. </string>
+    <string name="loginLinkPrefixo">Já tem uma conta? </string>
+    <string name="loginLink">Faça seu login agora</string>
+    <string name="LoginTitulo">Entre para comunidade</string>
+    <string name="BT_Cadastrar">Cadastrar</string>
+    <string name="HintEmail">Email</string>
+    <string name="HintSenha">Senha</string>
+    <string name="imageviewInicioContenDescription">imageviewInicio</string>
+    <string name="UserNameSharedPrefs">Usuario</string>
+</resources>
